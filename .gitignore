@@ -1,0 +1,23 @@
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Environment file with secrets
+.env
+
+# Local SQLite DB containing conversations
+atlas.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# Distribution/build
+dist/
+build/
+*.egg-info/
